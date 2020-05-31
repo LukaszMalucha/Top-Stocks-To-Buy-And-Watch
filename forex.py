@@ -24,6 +24,10 @@ column_list = ['payoutRatio','trailingAnnualDividendRate','dividendRate','exDivi
                'pegRatio', 'longName', 'symbol']
 
 
+ratio_columns = ['dividendRate','trailingPE','forwardPE','dividendYield','enterpriseToRevenue','enterpriseToEbitda',
+               'forwardEps','trailingEps','pegRatio', 'longName', 'symbol']
+
+
 dataset = pd.DataFrame(columns=column_list)
 
 
