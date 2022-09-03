@@ -1,6 +1,6 @@
 # Quantesta - What stocks are good to invest in?
 
-##### [Visit App](https://www.quantesta.com/)
+##### [Visit App](https://lukaszmalucha.github.io/forex-Frontend/)
 
 <br>
 
